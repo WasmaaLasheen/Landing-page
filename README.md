@@ -16,9 +16,6 @@ The navigation menu is built dynamically so that when a new section is added to 
 ## License
 This work is in the public domain.
 
-### Languages
-JavaScript, HTML, and CSS.
-
 ### Sources
 - MDN web docs
 - https://www.w3schools.com/colors/colors_picker.asp
