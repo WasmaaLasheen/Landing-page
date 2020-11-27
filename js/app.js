@@ -44,12 +44,3 @@ function active (event) {
   }
 }
 document.addEventListener('scroll', active);
-
-/*
-Sources:
-- MDN web docs
-- https://www.w3schools.com/colors/colors_picker.asp
-- https://stackoverflow.com/questions/3623110/get-an-elements-id
-- https://stackoverflow.com/questions/37081721/use-variables-in-document-queryselector
-- and other websites for optaining further information
-*/
